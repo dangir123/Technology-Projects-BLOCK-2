@@ -4,7 +4,11 @@
 
 ### 2.1 Devices Used
 List all devices added to your Packet Tracer workspace.
-
+Router
+Switch
+PCs
+Server
+Ethernet
 _Write your list here…_
 
 ### 2.2 Topology Screenshot
